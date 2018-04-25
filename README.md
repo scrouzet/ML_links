@@ -1,4 +1,4 @@
-# Links and ressources saved about machine learning, data science and AI
+# Links and ressources about machine learning, data science and AI
 
 ## Courses / Teaching
 Une longue liste de ressources variées sur le machine learning :
