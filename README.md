@@ -1,4 +1,4 @@
-# Links and ressources about machine learning, data science and AI
+# Ressources about machine learning, data science and AI
 
 - [Generalities, courses and tutorials](generalities.md)
 - [Links about Python](python_packages.md)
