@@ -1,5 +1,8 @@
 # Python packages
 
+From Matlab to Python Numpy :
+http://mathesaurus.sourceforge.net/matlab-numpy.html
+
 ## Deep learning
 
 ### Hyperparameterization
