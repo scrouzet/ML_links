@@ -20,7 +20,7 @@ https://github.com/ageitgey/face_recognition
 ## Python packages - TEXT PROCESSING
 
 
-## NLP made easy (based on MXnet for the deep learning part)
+### NLP made easy (based on MXnet for the deep learning part)
 https://github.com/dmlc/gluon-nlp
 
 ### TextBlob - useful package for text processing
