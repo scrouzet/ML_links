@@ -19,3 +19,7 @@ https://ngrok.com/
 ## Vizualisation and generalities
 Which plot when?
 http://ft-interactive.github.io/visual-vocabulary/
+
+## NLP
+
+[Les concepts généraux et techniques](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
