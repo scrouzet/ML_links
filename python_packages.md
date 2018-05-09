@@ -7,7 +7,7 @@
 
 ## Python packages for VISION:
 - [The simplest face recognition](https://github.com/ageitgey/face_recognition)
-- [Facebook Detectron (vision)] (https://github.com/facebookresearch/Detectron)
+- [Facebook Detectron (vision)](https://github.com/facebookresearch/Detectron)
 
 ## Python packages for TEXT PROCESSING
 - [Facebook fastText (NLP)](https://github.com/facebookresearch/fastText)
