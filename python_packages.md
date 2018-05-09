@@ -1,5 +1,6 @@
 # Python generalities
 - [From Matlab to Python Numpy](http://mathesaurus.sourceforge.net/matlab-numpy.html)
+- [Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book/blob/master/README.md)
 
 ## Deep learning generalities
 - [Hyperparameterization in Keras](https://github.com/maxpumperla/hyperas)
