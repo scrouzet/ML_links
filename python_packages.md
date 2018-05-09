@@ -19,22 +19,13 @@ https://github.com/ageitgey/face_recognition
 
 ## Python packages - TEXT PROCESSING
 
-
-### NLP made easy (based on MXnet for the deep learning part)
-https://github.com/dmlc/gluon-nlp
-
-### TextBlob - useful package for text processing
-http://textblob.readthedocs.io/en/dev/
-
-### VADER sentiment analysis 
-https://github.com/cjhutto/vaderSentiment
-
-### Feature Lab (automated feature engineering)
-https://github.com/featuretools/featuretools
-
+- [Gluon NLP made easy (based on MXnet for the deep learning part)](https://github.com/dmlc/gluon-nlp)
+- [TextBlob - useful package for text processing](http://textblob.readthedocs.io/en/dev/)
+- [VADER sentiment analysis](https://github.com/cjhutto/vaderSentiment)
 
 ## Python packages - VARIOUS
-http://fastml.com/how-to-use-the-python-debugger/
-http://faker.readthedocs.io/en/master/ -> pour anonymiser les données, générer des données, etc
 
-https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
+- [Feature Lab (automated feature engineering)](https://github.com/featuretools/featuretools)
+- [Faker pour anonymiser les données, générer des données, etc](http://faker.readthedocs.io/en/master/) 
+- [Python debugger](http://fastml.com/how-to-use-the-python-debugger/)
+- [30 amazing ML projects](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
