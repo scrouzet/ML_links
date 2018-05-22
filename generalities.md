@@ -1,3 +1,7 @@
+
+Les bonnes pratiques du ML selon Google :
+https://developers.google.com/machine-learning/rules-of-ml/
+
 # Courses / Teaching
 
 Une longue liste de ressources variées sur le machine learning :
