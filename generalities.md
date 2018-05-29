@@ -4,14 +4,13 @@ https://developers.google.com/machine-learning/rules-of-ml/
 
 # Courses / Teaching
 
-Une longue liste de ressources variées sur le machine learning :
-http://kourouklides.wikia.com/wiki/Machine_Learning
 
-Pour apprendre R en FR :
-https://juba.github.io/tidyverse/index.html
+[Un cours sur l'IA par l'Université d'Helsinki qui a l'air excellent](https://course.elementsofai.com/) (gratuit et avec la possibilité d'obtenir un certificat LinkedIn)
 
-J’avais mis ça de côté qui a l’air aussi très très bien et plus que complet, en Python :
-http://data8.org/
+[Une longue liste de ressources variées sur le machine learning](http://kourouklides.wikia.com/wiki/Machine_Learning)
+
+[Pour apprendre R en FR](https://juba.github.io/tidyverse/index.html)
+
 
 Et pour le deep learning :
 https://github.com/Riminder/deep-learning-practical-course
