@@ -4,7 +4,8 @@ https://developers.google.com/machine-learning/rules-of-ml/
 
 # Courses / Teaching
 
-1. [Le crash course sur le ML de Google](https://developers.google.com/machine-learning/crash-course/)
+Les cours offerts par Google :
+1. [Le crash course sur le ML](https://developers.google.com/machine-learning/crash-course/)
 2. [La suite avec des cours intéractifs](https://developers.google.com/machine-learning/practica/)
 
 [Un cours sur l'IA par l'Université d'Helsinki qui a l'air excellent](https://course.elementsofai.com/) (gratuit et avec la possibilité d'obtenir un certificat LinkedIn)
