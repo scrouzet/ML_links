@@ -18,6 +18,8 @@ Les cours offerts par Google :
 Et pour le deep learning :
 https://github.com/Riminder/deep-learning-practical-course
 
+## Cloud infrastructure
+[Google Cloud Platform - ML fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) - on Coursera
 
 ## Deployment
 https://ngrok.com/
