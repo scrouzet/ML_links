@@ -7,4 +7,4 @@ https://github.com/WinVector/vtreat/ : vtreat is an R data.frame processor/condi
 
 http://uc-r.github.io/feedforward_DNN : a course on CNN with R, but also on everything on R by the University of Cincinnati that seems very good overall.
 
-[BTYD: Implementing Buy 'Til You Die Models - R pour la segmentation client](https://cran.r-project.org/web/packages/BTYD/)
+[BTYD: Implementing Buy 'Til You Die Models](https://cran.r-project.org/web/packages/BTYD/) - R pour la segmentation client
