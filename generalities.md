@@ -37,5 +37,6 @@ http://ft-interactive.github.io/visual-vocabulary/
 - Paper: [Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car](https://arxiv.org/abs/1704.07911)
 - Video: [Responsible AI: Why we need Explainable AI](https://www.youtube.com/watch?v=A668RoogabM)
 - Short article: [Similarity Cracks the Code Of Explainable AI](http://simmachines.com/similarity-cracks-code-explainable-ai/)
+- The proceedings from a workshop: [IJCAI 2017 Workshop on Explainable Artificial Intelligence (XAI)](http://home.earthlink.net/~dwaha/research/meetings/ijcai17-xai/)
 - LIME : a [blog post](https://www.oreilly.com/learning/introduction-to-local-interpretable-model-agnostic-explanations-lime), the [arxiv paper](https://arxiv.org/abs/1602.04938) and the [github](https://github.com/marcotcr/lime)
 
