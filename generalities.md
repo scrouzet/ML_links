@@ -31,3 +31,10 @@ http://ft-interactive.github.io/visual-vocabulary/
 ## NLP
 
 [Les concepts généraux et techniques](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
+
+
+## Explainable AI (also called XAI)
+- Paper: [Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car](https://arxiv.org/abs/1704.07911)
+- Video: [Responsible AI: Why we need Explainable AI](https://www.youtube.com/watch?v=A668RoogabM)
+- Short article: [Similarity Cracks the Code Of Explainable AI](http://simmachines.com/similarity-cracks-code-explainable-ai/)
+
