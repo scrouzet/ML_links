@@ -26,7 +26,8 @@ https://ngrok.com/
 
 ## Vizualisation and generalities
 Which plot when?
-http://ft-interactive.github.io/visual-vocabulary/
+1. http://ft-interactive.github.io/visual-vocabulary/
+2. http://datavizproject.com/
 
 ## NLP
 
