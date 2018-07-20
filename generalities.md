@@ -1,5 +1,5 @@
 
-[FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml/)
+[FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml/) by Bloomberg
 
 Les bonnes pratiques du ML selon Google :
 https://developers.google.com/machine-learning/rules-of-ml/
