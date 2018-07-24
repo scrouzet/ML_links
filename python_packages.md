@@ -21,3 +21,6 @@
 - [Faker pour anonymiser les données, générer des données, etc](http://faker.readthedocs.io/en/master/) 
 - [Python debugger](http://fastml.com/how-to-use-the-python-debugger/)
 - [30 amazing ML projects](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
+
+## Practical tools to get data
+- [Photon](https://github.com/s0md3v/Photon) is a lightning fast web crawler which extracts URLs, files, intel & endpoints from a target.
