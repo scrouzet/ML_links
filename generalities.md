@@ -4,6 +4,8 @@
 Les bonnes pratiques du ML selon Google :
 https://developers.google.com/machine-learning/rules-of-ml/
 
+[Best (and Free!!) Resources to understand Nuts and Bolts of Deep learning](https://hackernoon.com/best-and-free-resources-to-understand-nuts-and-bolts-of-deep-learning-9c51166ffdf5)
+
 # Courses / Teaching
 
 Les cours offerts par Google :
