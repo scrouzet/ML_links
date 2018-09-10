@@ -24,3 +24,8 @@
 
 ## Practical tools to get data
 - [Photon](https://github.com/s0md3v/Photon) is a lightning fast web crawler which extracts URLs, files, intel & endpoints from a target.
+
+## Not data related but usefu
+A placer au début du notebook ipython pour que ça recharge les packages quand ils sont modifiés :
+%load_ext autoreload
+%autoreload 2
